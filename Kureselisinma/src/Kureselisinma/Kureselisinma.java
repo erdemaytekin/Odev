@@ -102,7 +102,7 @@ public class Kureselisinma {
 				System.out.println("Cok Iyi");
 				break;
 			default :
-				System.out.println("Kuresel isinma hakkindaki bilgileri tazelemen gerek");
+				System.out.println("Kuresel isinma hakkindaki bilgileri tazelemen gerekiyor");
 				
 			}
 			
