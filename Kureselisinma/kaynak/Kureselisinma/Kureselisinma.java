@@ -19,6 +19,7 @@ public class Kureselisinma {
 			System.out.println("b) Sanayi Devrimi");
 			System.out.println("c) Küresel ısınma");
 			System.out.println("d) Evrim Teorisi");
+
 			Scanner sc = new Scanner(System.in);
 				a[i] = sc.nextLine();
 			if(que[i].equals(a[i])) 
